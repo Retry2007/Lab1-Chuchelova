@@ -1,1 +1,1 @@
-change Feature/lab2-documentation-chuchelova 
+Это текст из ветки MAIN
