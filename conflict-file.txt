@@ -1,1 +1,1 @@
-Файл изменен в ветке Feature/lab2-documentation-chuchelova 
+change Feature/lab2-documentation-chuchelova 
